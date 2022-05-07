@@ -37,19 +37,20 @@ style).
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
+Para comenzar se debe clonar el repositorio, con git clone + nombre-del-repo, despues se debe realizar un
+npm install para poder instalar todas las dependencias de la app.
 ## 🧐 Build <a name = "build"></a>
-
+Se puede realizar el build con vue-cli-service serve. Ya que se utilizo Vercel para hacer el deploy.
 ## 🚀 Deployment <a name = "deployment"></a>
 
-Add additional notes about how to deploy this on a live system.
+Se utilizo Vercel para subir el proyecto en la web, la demo quedo en <a href="https://cintelink-challenge.vercel.app/" target="_blank">DEMO</a>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [VueJs](https://vuejs.org/) - Web Framework
 - [Vuetify](https://vuetifyjs.com/en/) - CSS Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Vercel](https://vercel.com/) - Deploy
 
 ## ✍️ Authors <a name = "authors"></a>
 
